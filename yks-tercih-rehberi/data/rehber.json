@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "sehir-secimi",
+    "title": "Şehir Seçimi Nasıl Yapılır?",
+    "description": "Üniversite tercihlerinde şehir seçiminin önemi büyüktür. Ulaşım, yaşam giderleri ve sosyal imkanlar göz önünde bulundurulmalıdır.",
+    "image": "/images/guide/sehir-secimi.jpg"
+  },
+  {
+    "slug": "yurt-ve-kiralik-ev",
+    "title": "Yurt ve Kiralık Ev Seçenekleri",
+    "description": "Devlet ve özel yurtların avantajları, dezavantajları ve ev kiralamada dikkat edilmesi gerekenler.",
+    "image": "/images/guide/yurt-kiralik-ev.jpg"
+  },
+  {
+    "slug": "burs-ve-destekler",
+    "title": "Burslar ve Devlet Destekleri",
+    "description": "KYK, vakıf, özel kurum bursları ile maddi desteklerin detaylı listesi.",
+    "image": "/images/guide/burslar.jpg"
+  }
+]

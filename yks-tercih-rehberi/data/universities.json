@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "bogazici-universitesi",
+    "name": "Boğaziçi Üniversitesi",
+    "description": "Boğaziçi Üniversitesi, İstanbul'da bulunan ve dünya sıralamalarında üst sıralarda yer alan köklü bir devlet üniversitesidir.",
+    "city": "İstanbul",
+    "type": "Devlet",
+    "website": "https://www.boun.edu.tr",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bogazici_University_logo.svg/800px-Bogazici_University_logo.svg.png"
+  },
+  {
+    "slug": "istanbul-teknik-universitesi",
+    "name": "İstanbul Teknik Üniversitesi",
+    "description": "İTÜ, mühendislik alanında Türkiye'nin en köklü ve saygın üniversitelerinden biridir.",
+    "city": "İstanbul",
+    "type": "Devlet",
+    "website": "https://www.itu.edu.tr",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Istanbul_Technical_University_logo.svg/800px-Istanbul_Technical_University_logo.svg.png"
+  },
+  {
+    "slug": "hacettepe-universitesi",
+    "name": "Hacettepe Üniversitesi",
+    "description": "Ankara'da yer alan Hacettepe Üniversitesi, özellikle sağlık bilimleri alanında Türkiye'nin önde gelen devlet üniversitelerindendir.",
+    "city": "Ankara",
+    "type": "Devlet",
+    "website": "https://www.hacettepe.edu.tr",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hacettepe.svg/800px-Hacettepe.svg.png"
+  },
+  {
+    "slug": "ege-universitesi",
+    "name": "Ege Üniversitesi",
+    "description": "İzmir'de yer alan Ege Üniversitesi, Ege Bölgesi'nin ilk üniversitelerindendir ve geniş bir akademik yelpazeye sahiptir.",
+    "city": "İzmir",
+    "type": "Devlet",
+    "website": "https://www.ege.edu.tr",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ege_University_logo.svg/800px-Ege_University_logo.svg.png"
+  },
+  {
+    "slug": "marmara-universitesi",
+    "name": "Marmara Üniversitesi",
+    "description": "Marmara Üniversitesi, çok sayıda fakülteye sahip büyük bir devlet üniversitesidir ve İstanbul'da yer almaktadır.",
+    "city": "İstanbul",
+    "type": "Devlet",
+    "website": "https://www.marmara.edu.tr",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Marmara_University_logo.svg/800px-Marmara_University_logo.svg.png"
+  }
+]
